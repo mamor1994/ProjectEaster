@@ -1,40 +1,14 @@
-# Orthodox Eastern Information System
-The Orthodox Eastern Information System is a C# project that provides information about the Orthodox Eastern Church. The system provides details on the history, beliefs, practices, and teachings of the Orthodox Eastern Church.
+# Easter Destination in Greece
 
-## Installation
-To install the Orthodox Eastern Information System, follow these steps:
-
-1. Clone the repository to your local machine using the following command:
-
-```
-git clone https://github.com/yourusername/orthodox-eastern.git
-```
-
-2. Open the solution file (OrthodoxEastern.sln) in Visual Studio.
-
-
-3. Build the solution to compile the project.
-
-4. Run the project to launch the information system.
+## Overview
+This is a Windows Forms application developed in Visual Studio using C# that presents an Easter destination within Greece. The application has different forms that provide information about the chosen destination in a text and image format.
 
 ## Features
-The Orthodox Eastern Information System provides the following features:
+* An initial form that serves as the basic menu
+* Different forms that present information about the Easter destination in Greece
+* Categories that include a brief overview of the place, attractions, history, customs, and visual material in the form of photos
+* At least one menu option
+* Any other necessary information can be added
 
-* Information about the history of the Orthodox Eastern Church
-* Details on the beliefs, practices, and teachings of the Orthodox Eastern Church
-* A search function to find specific information within the system
-* A user-friendly interface that is easy to navigate
-
-## Usage
-To use the Orthodox Eastern Information System, simply launch the project from within Visual Studio. Once the system is running, you can navigate through the various sections of the information system using the menu.
-
-To search for specific information within the system, use the search bar located at the top of the page. Simply type in your query and hit enter to search.
-
-## Contributing
-If you would like to contribute to the Orthodox Eastern Information System, you can do so by submitting a pull request through the project's GitHub repository. Before submitting a pull request, please ensure that your code adheres to the project's coding standards and that it has been thoroughly tested.
-
-## License
-The Orthodox Eastern Information System is released under the MIT License. See LICENSE.txt for more information.
-
-## Contact
-If you have any questions or concerns about the Orthodox Eastern Information System, please contact us at <email@domain.com>.
+## How to Use
+To run the application, simply download the source code and open the project in Visual Studio. Build the solution and run the application. The initial form will appear, and from there, you can navigate to the different forms that provide information about the Easter destination in Greece.
